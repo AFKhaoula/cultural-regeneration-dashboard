@@ -1,0 +1,13 @@
+industry_id,site_id,company_name,industry_type,employees_count,founding_year,annual_revenue,local_employment_percentage
+1,1,"Clyde Digital Studios","Digital Media",45,2010,3850000.00,78.50
+2,1,"Harbour Architects",Design,18,2008,1250000.00,83.20
+3,2,"BBC Scotland","Digital Media",1120,2007,42500000.00,85.70
+4,2,"Glasgow Creative Tech Hub",Technology,87,2012,5600000.00,72.30
+5,2,"STV Productions","Digital Media",310,2006,18700000.00,81.40
+6,2,"Pacific Design Collective",Design,24,2013,1850000.00,91.60
+7,3,"Riverside Interactive",Museums,35,2011,1320000.00,94.20
+8,3,"Transport Heritage Scotland",Museums,42,2012,1680000.00,89.50
+9,3,"Clyde Cultural Events",Entertainment,15,2014,980000.00,92.00
+10,5,"Crane Arts Studio",Arts,8,2016,420000.00,100.00
+11,5,"Industrial Heritage Films","Digital Media",12,2018,860000.00,75.00
+12,5,"Finnieston Photography Collective",Arts,6,2017,310000.00,100.00

@@ -1,0 +1,73 @@
+comparison_id,country,region,sector,trade_volume,year,quarter,growth_rate,market_share
+1,Morocco,"North Africa","Maritime Technology",285000000.00,2022,1,4.20,3.80
+2,Morocco,"North Africa","Creative Industries",168000000.00,2022,1,6.80,2.40
+3,Morocco,"North Africa","Heritage Tourism",342000000.00,2022,1,5.10,4.50
+4,Morocco,"North Africa","Maritime Technology",298000000.00,2022,2,4.60,3.90
+5,Morocco,"North Africa","Creative Industries",182000000.00,2022,2,8.30,2.60
+6,Morocco,"North Africa","Heritage Tourism",378000000.00,2022,2,10.50,4.80
+7,Morocco,"North Africa","Maritime Technology",312000000.00,2022,3,4.70,4.10
+8,Morocco,"North Africa","Creative Industries",195000000.00,2022,3,7.10,2.80
+9,Morocco,"North Africa","Heritage Tourism",425000000.00,2022,3,12.40,5.20
+10,Sweden,Europe,"Maritime Technology",587000000.00,2022,1,3.20,7.80
+11,Sweden,Europe,"Creative Industries",492000000.00,2022,1,4.70,7.10
+12,Sweden,Europe,"Heritage Tourism",348000000.00,2022,1,2.80,4.60
+13,Sweden,Europe,"Maritime Technology",605000000.00,2022,2,3.10,7.90
+14,Sweden,Europe,"Creative Industries",518000000.00,2022,2,5.30,7.40
+15,Sweden,Europe,"Heritage Tourism",382000000.00,2022,2,9.80,4.80
+16,Sweden,Europe,"Maritime Technology",624000000.00,2022,3,3.10,8.20
+17,Sweden,Europe,"Creative Industries",542000000.00,2022,3,4.60,7.80
+18,Sweden,Europe,"Heritage Tourism",425000000.00,2022,3,11.30,5.20
+19,Scotland,Europe,"Maritime Technology",428000000.00,2022,1,2.60,5.70
+20,Scotland,Europe,"Creative Industries",385000000.00,2022,1,4.90,5.50
+21,Scotland,Europe,"Heritage Tourism",487000000.00,2022,1,3.20,6.40
+22,Scotland,Europe,"Maritime Technology",442000000.00,2022,2,3.30,5.80
+23,Scotland,Europe,"Creative Industries",412000000.00,2022,2,7.00,5.90
+24,Scotland,Europe,"Heritage Tourism",549000000.00,2022,2,12.70,6.90
+25,Scotland,Europe,"Maritime Technology",458000000.00,2022,3,3.60,6.00
+26,Scotland,Europe,"Creative Industries",438000000.00,2022,3,6.30,6.30
+27,Scotland,Europe,"Heritage Tourism",618000000.00,2022,3,12.60,7.50
+28,Germany,Europe,"Maritime Technology",982000000.00,2022,1,2.10,13.00
+29,Germany,Europe,"Creative Industries",875000000.00,2022,1,3.80,12.60
+30,Germany,Europe,"Heritage Tourism",765000000.00,2022,1,2.40,10.10
+31,Germany,Europe,"Maritime Technology",1008000000.00,2022,2,2.60,13.20
+32,Germany,Europe,"Creative Industries",912000000.00,2022,2,4.20,13.00
+33,Germany,Europe,"Heritage Tourism",842000000.00,2022,2,10.10,10.60
+34,Germany,Europe,"Maritime Technology",1035000000.00,2022,3,2.70,13.60
+35,Germany,Europe,"Creative Industries",948000000.00,2022,3,3.90,13.60
+36,Germany,Europe,"Heritage Tourism",935000000.00,2022,3,11.00,11.40
+37,Netherlands,Europe,"Maritime Technology",735000000.00,2022,1,3.50,9.70
+38,Netherlands,Europe,"Creative Industries",628000000.00,2022,1,5.20,9.00
+39,Netherlands,Europe,"Heritage Tourism",415000000.00,2022,1,2.90,5.50
+40,Netherlands,Europe,"Maritime Technology",762000000.00,2022,2,3.70,10.00
+41,Netherlands,Europe,"Creative Industries",665000000.00,2022,2,5.90,9.50
+42,Netherlands,Europe,"Heritage Tourism",458000000.00,2022,2,10.40,5.80
+43,Netherlands,Europe,"Maritime Technology",795000000.00,2022,3,4.30,10.40
+44,Netherlands,Europe,"Creative Industries",702000000.00,2022,3,5.60,10.10
+45,Netherlands,Europe,"Heritage Tourism",512000000.00,2022,3,11.80,6.20
+46,Spain,Europe,"Maritime Technology",512000000.00,2022,1,2.80,6.80
+47,Spain,Europe,"Creative Industries",478000000.00,2022,1,4.50,6.90
+48,Spain,Europe,"Heritage Tourism",685000000.00,2022,1,3.60,9.00
+49,Spain,Europe,"Maritime Technology",532000000.00,2022,2,3.90,7.00
+50,Spain,Europe,"Creative Industries",505000000.00,2022,2,5.60,7.20
+51,Spain,Europe,"Heritage Tourism",785000000.00,2022,2,14.60,9.90
+52,Spain,Europe,"Maritime Technology",552000000.00,2022,3,3.80,7.20
+53,Spain,Europe,"Creative Industries",538000000.00,2022,3,6.50,7.70
+54,Spain,Europe,"Heritage Tourism",895000000.00,2022,3,14.00,10.90
+55,Tunisia,"North Africa","Maritime Technology",178000000.00,2022,1,4.10,2.40
+56,Tunisia,"North Africa","Creative Industries",105000000.00,2022,1,6.20,1.50
+57,Tunisia,"North Africa","Heritage Tourism",285000000.00,2022,1,4.80,3.80
+58,Tunisia,"North Africa","Maritime Technology",187000000.00,2022,2,5.10,2.40
+59,Tunisia,"North Africa","Creative Industries",115000000.00,2022,2,9.50,1.60
+60,Tunisia,"North Africa","Heritage Tourism",325000000.00,2022,2,14.00,4.10
+61,Tunisia,"North Africa","Maritime Technology",198000000.00,2022,3,5.90,2.60
+62,Tunisia,"North Africa","Creative Industries",128000000.00,2022,3,11.30,1.80
+63,Tunisia,"North Africa","Heritage Tourism",378000000.00,2022,3,16.30,4.60
+64,Egypt,"North Africa","Maritime Technology",312000000.00,2022,1,3.80,4.10
+65,Egypt,"North Africa","Creative Industries",185000000.00,2022,1,7.20,2.70
+66,Egypt,"North Africa","Heritage Tourism",495000000.00,2022,1,5.50,6.50
+67,Egypt,"North Africa","Maritime Technology",328000000.00,2022,2,5.10,4.30
+68,Egypt,"North Africa","Creative Industries",202000000.00,2022,2,9.20,2.90
+69,Egypt,"North Africa","Heritage Tourism",568000000.00,2022,2,14.70,7.20
+70,Egypt,"North Africa","Maritime Technology",348000000.00,2022,3,6.10,4.60
+71,Egypt,"North Africa","Creative Industries",223000000.00,2022,3,10.40,3.20
+72,Egypt,"North Africa","Heritage Tourism",658000000.00,2022,3,15.80,8.00

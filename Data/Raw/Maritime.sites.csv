@@ -1,0 +1,6 @@
+site_id,site_name,city,country,historical_purpose,current_use,year_of_conversion,heritage_status,area_sqm
+1,"Glasgow Harbour",Glasgow,"United Kingdom","Commercial shipping docks and warehouses","Mixed-use residential and commercial development",2003,"Partially protected",52000.75
+2,"Pacific Quay",Glasgow,"United Kingdom","Shipbuilding and cargo handling","Media hub and business district",1999,Redeveloped,33800.50
+3,"Riverside Museum",Glasgow,"United Kingdom","Pointhouse Quay shipyard and ferry terminal","Transport museum and cultural venue",2011,"Listed structure",11000.25
+4,"Govan Graving Docks",Glasgow,"United Kingdom","Ship repair and maintenance docks","Abandoned heritage site with redevelopment plans",1988,"Category B listed",28500.00
+5,"Finnieston Crane",Glasgow,"United Kingdom","Heavy lifting crane for loading cargo and engines","Inactive industrial monument",1969,"Category A listed",3200.80
