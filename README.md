@@ -138,24 +138,24 @@ cultural-regeneration-dashboard/
 
 ### **For Recruiters (5-minute tour):**
 
-1. **Start here:** [Problem Statement](docs/problem_statement.md) - Understand the strategic context
-2. **Product thinking:** [PRD](docs/prd.md) - See how I define features and scope
-3. **Data skills:** [Key Insights](sql/key_insights.md) - Business intelligence from SQL analysis
+1. **Start here:** [Problem Statement](Docs/Problemstatement.md) - Understand the strategic context
+2. **Product thinking:** [PRD](Docs/prd.md) - See how I define features and scope
+3. **Data skills:** [Key Insights](SQL/key_insights.md) - Business intelligence from SQL analysis
 4. **Visualizations:** [Screenshots](assets/screenshots/) - See the Power BI dashboard in action
-5. **Technical depth:** [SQL Queries](sql/analysis_queries.sql) - 24 queries from basic to advanced
+5. **Technical depth:** [SQL Queries](SQL/Queriesoncreativeindustrydatabase.sql) - 24 queries from basic to advanced
 
 ### **For Technical Reviewers:**
 
-1. **Database design:** [Data Setup](sql/data_setup.sql) - Schema, relationships, constraints
-2. **Data dictionary:** [Tables & Columns](data/data_dictionary.md) - Full data model documentation
-3. **Query complexity:** [Analysis Queries](sql/analysis_queries.sql) - CTEs, window functions, multi-table JOINs
+1. **Database design:** [Data Setup](SQL/data_setup.sql) - Schema, relationships, constraints
+2. **Data dictionary:** [Tables & Columns](Data/data_dictionary.md) - Full data model documentation
+3. **Query complexity:** [Analysis Queries](SQL/Queriesoncreativeindustrydatabase.sql) - CTEs, window functions, multi-table JOINs
 4. **BI Development:** Download the .pbix file and explore the dashboard interactivity
 
 ### **For Fellow PMs:**
 
-1. **User stories:** [PRD Section 3](docs/prd.md#user-stories--acceptance-criteria) - 5 epics, 23 stories
-2. **Scope management:** [PRD Out of Scope](docs/prd.md#out-of-scope-v1) - What's NOT in MVP and why
-3. **Success metrics:** [PRD Metrics](docs/prd.md#success-metrics--kpis) - Adoption + business impact KPIs
+1. **User stories:** [PRD Section 3](Docs/prd.md#user-stories--acceptance-criteria) - 5 epics, 23 stories
+2. **Scope management:** [PRD Out of Scope](Docs/prd.md#out-of-scope-v1) - What's NOT in MVP and why
+3. **Success metrics:** [PRD Metrics](Docs/prd.md#success-metrics--kpis) - Adoption + business impact KPIs
 
 ---
 
