@@ -1,4 +1,4 @@
-# 🏗️ Cultural Regeneration Dashboard
+# Cultural Regeneration Dashboard
 ### Data-Driven Decision Support for Maritime Heritage Investment
 
 > **Transforming how city planners evaluate heritage site regeneration opportunities through integrated analytics on economic impact, creative industry clustering, and regional benchmarking.**
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 The Problem
+## The Problem
 
 City planners allocate ressources without integrated data on:
 - Which sites have the highest economic ROI potential
@@ -33,7 +33,7 @@ A **self-service analytics dashboard** that consolidates:
 
 ---
 
-## 📈 Key Insights Discovered
+## Key Insights Discovered
 
 From analyzing Glasgow's 5 maritime heritage sites across 24 SQL queries:
 
@@ -49,7 +49,39 @@ From analyzing Glasgow's 5 maritime heritage sites across 24 SQL queries:
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+## Dashboard Features
+
+### **Page 1: Executive Overview**
+High-level city-wide performance metrics and trends
+
+**Key Visualizations:**
+- **3 KPI Cards:** Total Visitors (2M), Total Revenue (£26M), Total Creative Companies (12)
+- **Bar Chart:** Sites ranked by visitor volume
+- **Line Chart:** Quarterly visitor trends showing seasonal patterns
+- **Data Table:** Complete creative industry company roster with employment & revenue
+- **Utilization Gauge:** Heritage site activation rate (80% - 4 of 5 sites active)
+
+**Strategic Value:** Enables quick assessment of overall regeneration program health and identifies high/low performers at a glance.
+
+---
+
+### **Page 2: Site Deep Dive**
+Interactive drill-down for individual site analysis
+
+**Key Features:**
+- **Interactive Slicer:** Dropdown menu to select any of the 5 sites
+- **Dynamic KPIs:** Visitor count, tourism revenue, creative companies, cultural events (auto-update based on site selection)
+- **Trend Analysis:** Quarterly visitor patterns for selected site
+- **Company Directory:** Table of all creative businesses located at the selected site
+- **Site Profile Cards:** Heritage status, conversion year, current use, area size
+
+**Strategic Value:** Allows planners to evaluate individual site performance, compare before/after transformation metrics, and assess creative industry composition for targeted recruitment.
+
+**Interactive Capabilities:** All visuals update automatically when a different site is selected - demonstrating true self-service analytics.
+
+---
+
+## Technical Skills Demonstrated
 
 ### **Data & Analytics**
 - **SQL** (MySQL): 24 queries demonstrating JOINs, CTEs, window functions, subqueries, aggregations, UNION
@@ -70,7 +102,7 @@ From analyzing Glasgow's 5 maritime heritage sites across 24 SQL queries:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 cultural-regeneration-dashboard/
@@ -88,41 +120,46 @@ cultural-regeneration-dashboard/
 │
 ├── 📂 docs/
 │   ├── problem_statement.md              # Strategic context & user needs
-│   └── prd.md                            # Product Requirements Document (MVP definition)
+│   ├── prd.md                            # Product Requirements Document (MVP definition)
+│   └── PROJECT_SUMMARY.md                # Elevator pitches for various contexts
 │
-├── 📂 visualizations/                    # Power BI dashboards (coming in Week 2-3)
-│   └── [.pbix file + screenshots]
+├── 📂 visualizations/
+│   └── Creative Sites Dashboard.pbix  # Power BI dashboard file
 │
 └── 📂 assets/
-    └── screenshots/                      # Demo images for this README
+    └── screenshots/                      # Dashboard page screenshots
+        ├── Overview.png
+        └── DeepDive per site.png
 ```
 
 ---
 
-## 🚀 How to Explore This Project
+## How to Explore This Project
 
 ### **For Recruiters (5-minute tour):**
 
 1. **Start here:** [Problem Statement](docs/problem_statement.md) - Understand the strategic context
 2. **Product thinking:** [PRD](docs/prd.md) - See how I define features and scope
 3. **Data skills:** [Key Insights](sql/key_insights.md) - Business intelligence from SQL analysis
-4. **Technical depth:** [SQL Queries](sql/analysis_queries.sql) - 24 queries from basic to advanced
+4. **Visualizations:** [Screenshots](assets/screenshots/) - See the Power BI dashboard in action
+5. **Technical depth:** [SQL Queries](sql/analysis_queries.sql) - 24 queries from basic to advanced
 
 ### **For Technical Reviewers:**
 
 1. **Database design:** [Data Setup](sql/data_setup.sql) - Schema, relationships, constraints
 2. **Data dictionary:** [Tables & Columns](data/data_dictionary.md) - Full data model documentation
 3. **Query complexity:** [Analysis Queries](sql/analysis_queries.sql) - CTEs, window functions, multi-table JOINs
+4. **BI Development:** Download the .pbix file and explore the dashboard interactivity
 
 ### **For Fellow PMs:**
 
 1. **User stories:** [PRD Section 3](docs/prd.md#user-stories--acceptance-criteria) - 5 epics, 23 stories
-2. **Scope management:** [PRD Appendix](docs/prd.md#out-of-scope-v1) - What's NOT in MVP and why
-3. **Success metrics:** [PRD Section 5](docs/prd.md#success-metrics--kpis) - Adoption + business impact KPIs
+2. **Scope management:** [PRD Out of Scope](docs/prd.md#out-of-scope-v1) - What's NOT in MVP and why
+3. **Success metrics:** [PRD Metrics](docs/prd.md#success-metrics--kpis) - Adoption + business impact KPIs
 
 ---
 
-## 📊 Sample SQL Query & Insight
+## Sample SQL Query & Insight
 
 ### **Query: Comprehensive Site Performance Dashboard**
 
@@ -165,7 +202,7 @@ Sites with **4+ industry types** show **2x higher revenue per visitor** compared
 
 ---
 
-## 🎓 What I Learned
+## What I Learned
 
 ### **Product Thinking**
 - How to translate user pain points into product requirements
@@ -184,7 +221,7 @@ Sites with **4+ industry types** show **2x higher revenue per visitor** compared
 
 ---
 
-## 💼 About Me
+## About Me
 
 **Khaoula Ait Faraji**  
 Product Management Student | Transitioning from International Trade
@@ -199,7 +236,7 @@ Heritage regeneration sits at the intersection of economic development, data ana
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 🌐 **Portfolio:** https://sites.google.com/view/aitfarajikhaoula
 - 💼 **LinkedIn:** http://linkedin.com/in/khaoula-ait-faraji-741127397
@@ -216,7 +253,32 @@ Heritage regeneration sits at the intersection of economic development, data ana
 
 ---
 
-## 📝 License & Usage
+## 📊 Dashboard Access
+
+### **Power BI Desktop File**
+Download the `.pbix` file from the [visualizations folder](visualizations/) to explore the full interactive dashboard.
+
+**Requirements:**
+- Power BI Desktop (free download from Microsoft)
+- Data files are embedded in the .pbix file for easy exploration
+
+---
+
+## 🔍 Featured Capabilities
+
+### **Interactive Analytics**
+- **Dynamic Filtering:** Slicer on Page 2 allows instant switching between sites with all visuals updating automatically
+- **Cross-Filtering:** Clicking any data point filters related visuals across the page
+- **Drill-Down:** Navigate from high-level trends to granular company details
+
+### **Calculated Intelligence**
+- **Utilization Rate:** Automated calculation of heritage site activation percentage
+- **Revenue Efficiency:** Revenue per visitor metric for comparing site monetization
+- **Seasonal Patterns:** Q2-Q3 vs Q1-Q4 comparison revealing 40-50% visitor fluctuations
+
+---
+
+## License & Usage
 
 This is a **portfolio/educational project** using fictional sample data created for demonstration purposes.
 
@@ -229,7 +291,6 @@ This is a **portfolio/educational project** using fictional sample data created 
 ## 🙏 Acknowledgments
 
 - **Inspiration:** Glasgow's actual maritime heritage transformation (Pacific Quay, Riverside Museum, Govan Graving Docks)
-- **Methodology:** Urban regeneration frameworks from UNESCO, UK Heritage Lottery Fund, European Heritage Regeneration Index
 - **Learning Resources:** Anthropic's Claude for brainstorming, SQL documentation, PRD best practices
 
 ---
