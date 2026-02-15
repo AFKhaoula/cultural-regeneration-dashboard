@@ -138,17 +138,17 @@ cultural-regeneration-dashboard/
 
 ### **For Recruiters (5-minute tour):**
 
-1. **Start here:** [Problem Statement](Docs/Problemstatement.md) - Understand the strategic context
+1. **Start here:** [Problem Statement](Docs/Problem statement.md) - Understand the strategic context
 2. **Product thinking:** [PRD](Docs/prd.md) - See how I define features and scope
 3. **Data skills:** [Key Insights](SQL/key_insights.md) - Business intelligence from SQL analysis
 4. **Visualizations:** [Screenshots](assets/screenshots/) - See the Power BI dashboard in action
-5. **Technical depth:** [SQL Queries](SQL/Queriesoncreativeindustrydatabase.sql) - 24 queries from basic to advanced
+5. **Technical depth:** [SQL Queries](SQL/Queries on creative industry database.sql) - 24 queries from basic to advanced
 
 ### **For Technical Reviewers:**
 
 1. **Database design:** [Data Setup](SQL/data_setup.sql) - Schema, relationships, constraints
 2. **Data dictionary:** [Tables & Columns](Data/data_dictionary.md) - Full data model documentation
-3. **Query complexity:** [Analysis Queries](SQL/Queriesoncreativeindustrydatabase.sql) - CTEs, window functions, multi-table JOINs
+3. **Query complexity:** [Analysis Queries](SQL/Queries on creative industry database.sql) - CTEs, window functions, multi-table JOINs
 4. **BI Development:** Download the .pbix file and explore the dashboard interactivity
 
 ### **For Fellow PMs:**
