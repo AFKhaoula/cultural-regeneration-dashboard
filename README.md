@@ -109,22 +109,22 @@ cultural-regeneration-dashboard/
 │
 ├── 📄 README.md                          # You are here
 │
-├── 📂 data/
-│   ├── raw/                              # 4 CSV files (maritime sites, industries, impact, markets)
+├── 📂 Data/
+│   ├── Raw/                              # 4 CSV files (maritime sites, industries, impact, markets)
 │   └── data_dictionary.md                # Comprehensive table/column documentation
 │
-├── 📂 sql/
-│   ├── data_setup.sql                    # Database schema with constraints & indexes
-│   ├── analysis_queries.sql              # 24 queries organized by complexity
-│   └── key_insights.md                   # Business takeaways from each query
+├── 📂 SQL/
+│   ├── data_setup.sql                                  # Database schema with constraints & indexes
+│   ├── Queries_on_creative_industry_database.sql       # 24 queries organized by complexity
+│   └── key_insights.md                                  # Business takeaways from each query
 │
-├── 📂 docs/
+├── 📂 Docs/
 │   ├── problem_statement.md              # Strategic context & user needs
-│   ├── prd.md                            # Product Requirements Document (MVP definition)
+│   ├── prd.md                         # Product Requirements Document (MVP definition)                    
 │   └── PROJECT_SUMMARY.md                # Elevator pitches for various contexts
 │
 ├── 📂 visualizations/
-│   └── Creative Sites Dashboard.pbix  # Power BI dashboard file
+│   └── Creative_Sites_Dashboard.pbix  # Power BI dashboard file
 │
 └── 📂 assets/
     └── screenshots/                      # Dashboard page screenshots
