@@ -141,7 +141,7 @@ cultural-regeneration-dashboard/
 1. **Start here:** [Problem Statement](Docs/Problem_statement.md) - Understand the strategic context
 2. **Product thinking:** [PRD](Docs/prd.md) - See how I define features and scope
 3. **Data skills:** [Key Insights](SQL/key_insights.md) - Business intelligence from SQL analysis
-4. **Visualizations:** [Screenshots](assets/screenshots/) - See the Power BI dashboard in action
+4. **Visualizations:** [Screenshots](assets/Screenshots/) - See the Power BI dashboard in action
 5. **Technical depth:** [SQL Queries](SQL/Queries_on_creative_industry_database.sql) - 24 queries from basic to advanced
 
 ### **For Technical Reviewers:**
