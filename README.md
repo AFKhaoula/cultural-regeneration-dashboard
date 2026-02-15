@@ -149,7 +149,7 @@ cultural-regeneration-dashboard/
 1. **Database design:** [Data Setup](SQL/data_setup.sql) - Schema, relationships, constraints
 2. **Data dictionary:** [Tables & Columns](Data/data_dictionnary.md) - Full data model documentation
 3. **Query complexity:** [Analysis Queries](SQL/Queries_on_creative_industry_database.sql) - CTEs, window functions, multi-table JOINs
-4. **BI Development:** Download the [visualizations file](Visualizations\Creative_sites_dashboards.pbix) - and explore the dashboard interactivity
+4. **BI Development:** [visualizations file](Visualizations/Creative_sites_dashboards.pbix) - and explore the dashboard interactivity
 
 ### **For Fellow PMs:**
 
@@ -256,7 +256,7 @@ Heritage regeneration sits at the intersection of economic development, data ana
 ## 📊 Dashboard Access
 
 ### **Power BI Desktop File**
-Download the `.pbix` file from the  [visualizations file](Visualizations\Creative_sites_dashboars.pbix) to explore the full interactive dashboard.
+Download the `.pbix` file from the  [visualizations file](Visualizations/Creative_sites_dashboars.pbix) to explore the full interactive dashboard.
 
 **Requirements:**
 - Power BI Desktop 
