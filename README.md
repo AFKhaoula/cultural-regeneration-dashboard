@@ -45,7 +45,7 @@ From analyzing Glasgow's 5 maritime heritage sites across 24 SQL queries:
 | **North Africa heritage tourism growing 9.2% annually vs. Europe 4.1%** | Emerging markets offer partnership + learning opportunities |
 | **Govan Graving Docks: heritage protected + abandoned = high opportunity** | Priority candidate for next regeneration investment |
 
-📄 **[See Full Analysis & Strategic Recommendations →](sql/key_insights.md)**
+📄 **[See Full Analysis & Strategic Recommendations →](SQL/key_insights.md)**
 
 ---
 
