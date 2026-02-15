@@ -5,7 +5,7 @@ This document summarizes the **business insights** extracted from SQL queries an
 
 ---
 
-## 🎯 SECTION 1: SITE INVENTORY & FILTERING
+## SECTION 1: SITE INVENTORY & FILTERING
 
 ### **Task 1: Post-2000 Site Conversions**
 **Query Purpose:** Identify modern regeneration projects  
@@ -28,7 +28,7 @@ This document summarizes the **business insights** extracted from SQL queries an
 
 ---
 
-## 📊 SECTION 2: AGGREGATION & PERFORMANCE METRICS
+## SECTION 2: AGGREGATION & PERFORMANCE METRICS
 
 ### **Task 4: Creative Industry Sector Performance**
 **Query Purpose:** Compare sector economics  
@@ -57,7 +57,7 @@ This document summarizes the **business insights** extracted from SQL queries an
 
 ---
 
-## 🔗 SECTION 3: RELATIONAL ANALYSIS (JOINS)
+## SECTION 3: RELATIONAL ANALYSIS (JOINS)
 
 ### **Task 7: Site-Industry Mapping**
 **Query Purpose:** Understand industry clustering patterns  
@@ -80,7 +80,7 @@ This document summarizes the **business insights** extracted from SQL queries an
 
 ---
 
-## 🔍 SECTION 4: SUBQUERIES & COMPLEX FILTERING
+## SECTION 4: SUBQUERIES & COMPLEX FILTERING
 
 ### **Task 11: High-Traffic Site Industries**
 **Query Purpose:** Identify what thrives at popular destinations  
@@ -103,7 +103,7 @@ This document summarizes the **business insights** extracted from SQL queries an
 
 ---
 
-## 📈 SECTION 5: WINDOW FUNCTIONS & TRENDS
+## SECTION 5: WINDOW FUNCTIONS & TRENDS
 
 ### **Task 15: Quarter-over-Quarter Visitor Growth**
 **Query Purpose:** Measure momentum  
@@ -126,7 +126,7 @@ This document summarizes the **business insights** extracted from SQL queries an
 
 ---
 
-## 🏗️ SECTION 6: COMMON TABLE EXPRESSIONS (CTEs)
+## SECTION 6: COMMON TABLE EXPRESSIONS (CTEs)
 
 ### **Task 19: Multi-Metric Site Rankings**
 **Query Purpose:** Holistic performance assessment  
@@ -153,7 +153,7 @@ This document summarizes the **business insights** extracted from SQL queries an
 
 ---
 
-## 🚀 SECTION 7: ADVANCED COMBINED ANALYSES
+## SECTION 7: ADVANCED COMBINED ANALYSES
 
 ### **Task 22: Comprehensive Performance Dashboard**
 **Query Purpose:** Executive-level site comparison  
@@ -217,7 +217,7 @@ Based on all 24 queries, city planners should:
 
 ---
 
-## 📋 METRICS TO TRACK GOING FORWARD
+## METRICS TO TRACK GOING FORWARD
 
 Based on this analysis, establish quarterly KPI dashboards:
 
@@ -232,7 +232,7 @@ Based on this analysis, establish quarterly KPI dashboards:
 
 ---
 
-## 🔚 CONCLUSION
+## CONCLUSION
 
 This SQL analysis demonstrates that **successful maritime heritage regeneration requires**:
 - ✅ **Time** (3+ years for maturity)
