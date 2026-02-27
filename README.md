@@ -98,22 +98,6 @@ Creative sector clustering and performance metrics
 
 ---
 
-### **Page 4: Economic Impact & Trends**
-Temporal patterns and revenue efficiency analysis
-
-**Key Features:**
-- **4 KPI Cards:** Q2-Q3 seasonal peak (+45% vs Q1-Q4), year-over-year growth (+12%), best performing quarter, average revenue per visitor (£23)
-- **Clustered Column Chart:** Average visitors by quarter showing clear seasonal pattern
-- **Dual-Axis Chart:** Visitors (bars) and revenue (line) over time demonstrating correlation
-- **Scatter Plot:** Revenue efficiency by site with visitors on X-axis, revenue on Y-axis, event count as bubble size
-- **Year-over-Year Matrix:** Quarterly visitor comparison 2022-2023 with conditional color formatting
-
-**Strategic Value:** Identifies seasonal opportunities (Q2-Q3 see 40-50% higher visitor counts requiring winter programming development), measures site-level revenue efficiency (revenue per visitor benchmark), and tracks growth momentum. Planners can identify underperforming quarters and optimize cultural event scheduling.
-
-**Key Insight Visible:** Strong visitor-revenue correlation with Pacific Quay and Riverside Museum performing above trend line (more efficient monetization), while seasonal patterns reveal clear need for Q1-Q4 programming investment.
-
----
-
 ## Technical Skills Demonstrated
 
 ### **Data & Analytics**
